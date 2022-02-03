@@ -1,5 +1,5 @@
-const noblox = require("noblox.js")
-const fs = require('fs')
+import noblox from "noblox.js"
+import fs from 'fs'
 
 
 //
